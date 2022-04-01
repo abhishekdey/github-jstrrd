@@ -20,7 +20,7 @@
 
 // export default App;
 
-import { Component } from '@angular/common';
+import { Component } from '@angular/core';
 @Component({
   template: '<div> App Component</div>',
   selector: 'app-component',
